@@ -1,0 +1,7 @@
+imalisiddique,ali@gmail.com,1234,admin
+ali,imali@gmail.com,1111,manager
+hamza,hamza@gmail.com,1111,user
+khaled,k@gmail.com,1111,user
+Hamza ,hamza@gmail.com,1234,user
+khaled ahmed,khaled@gmail.com,1111,user
+Kawsar Ahmmed,kawsar@gmail.com,1111,user
